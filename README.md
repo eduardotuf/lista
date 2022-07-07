@@ -57,6 +57,8 @@ http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/259
 http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/263
 #EXTINF:-1,FX HD
 http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/308
+#EXTINF:-1,Globo News HD
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/516
 #EXTINF:-1,Gloob HD
 http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/142
 #EXTINF:-1,Gloobinho HD
