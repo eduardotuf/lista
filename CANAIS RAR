@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="FILMES & SERIES",A&E
+http://asbx.xyz:80/222222/222222/62650
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="FILMES & SERIES",AMC
+http://asbx.xyz:80/222222/222222/62655
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="FILMES & SERIES",AXN
+http://asbx.xyz:80/222222/222222/62668
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sony.png" group-title="FILMES & SERIES",Canal Sony
+http://asbx.xyz:80/222222/222222/62700
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="FILMES & SERIES",Cinemax
+http://asbx.xyz:80/222222/222222/62710
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fox.png" group-title="FILMES & SERIES",FOX
+http://asbx.xyz:80/222222/222222/62786
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="FILMES & SERIES",Fox Premium 1
+http://asbx.xyz:80/222222/222222/62792
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium2b.png" group-title="FILMES & SERIES",Fox Premium 2
+http://asbx.xyz:80/222222/222222/62794
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="FILMES & SERIES",FX
+http://asbx.xyz:80/222222/222222/62804
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="FILMES & SERIES",HBO
+http://asbx.xyz:80/222222/222222/62861
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="FILMES & SERIES",HBO 2
+http://asbx.xyz:80/222222/222222/62862
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="FILMES & SERIES",HBO Family
+http://asbx.xyz:80/222222/222222/62865
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="FILMES & SERIES",HBO Mundi
+http://asbx.xyz:80/222222/222222/62870
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="FILMES & SERIES",HBO Pop
+http://asbx.xyz:80/222222/222222/62873
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/hbosignature.png" group-title="FILMES & SERIES",HBO Signature
+http://asbx.xyz:80/222222/222222/62876
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="FILMES & SERIES",HBO Xtreme
+http://asbx.xyz:80/222222/222222/62877
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="FILMES & SERIES",HBO+
+http://asbx.xyz:80/222222/222222/62880
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.png" group-title="FILMES & SERIES",Megapix
+http://asbx.xyz:80/222222/222222/62899
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="FILMES & SERIES",Paramount
+http://asbx.xyz:80/222222/222222/62928
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="FILMES & SERIES",Space
+http://asbx.xyz:80/222222/222222/62978
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_studio-universal-hd_m.png" group-title="FILMES & SERIES",Studio Universal
+http://asbx.xyz:80/222222/222222/62989
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="FILMES & SERIES",SyFy
+http://asbx.xyz:80/222222/222222/62990
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="FILMES & SERIES",Telecine Action
+http://asbx.xyz:80/222222/222222/62995
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="FILMES & SERIES",Telecine Cult
+http://asbx.xyz:80/222222/222222/62998
+#EXTINF:-1 tvg-logo="https://tvmagazine.com.br/imagens/icones/64/tcfun.png" group-title="FILMES & SERIES",Telecine Fun
+http://asbx.xyz:80/222222/222222/63001
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x453.jpg.pagespeed.ic.viMJ9OU6DQ.webp" group-title="FILMES & SERIES",Telecine Pipoca
+http://asbx.xyz:80/222222/222222/63004
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x429.jpg.pagespeed.ic.II6mnaqVf7.webp" group-title="FILMES & SERIES",Telecine Premium
+http://asbx.xyz:80/222222/222222/63007
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x515.jpg.pagespeed.ic.alb0HTT_gH.webp" group-title="FILMES & SERIES",Telecine Touch
+http://asbx.xyz:80/222222/222222/63010
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="FILMES & SERIES",TNT
+http://asbx.xyz:80/222222/222222/63019
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="FILMES & SERIES",TNT Séries
+http://asbx.xyz:80/222222/222222/63023
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="FILMES & SERIES",Universal TV
+http://asbx.xyz:80/222222/222222/63038
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="FILMES & SERIES",Warner Channel
+http://asbx.xyz:80/222222/222222/63044
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tbs.png" group-title="FILMES & SERIES",TBS
+http://asbx.xyz:80/222222/222222/62992
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="VARIEDADES",BIS
+http://asbx.xyz:80/222222/222222/62681
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/canalbrasil.png" group-title="VARIEDADES",Canal Brasil
+http://asbx.xyz:80/222222/222222/62699
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/41NS1I5HffL.png" group-title="VARIEDADES",Comedy Central
+http://asbx.xyz:80/222222/222222/62720
+#EXTINF:-1 tvg-logo="https://tvmagazine.com.br/imagens/icones/64/curta.png" group-title="VARIEDADES",Curta! HD
+http://asbx.xyz:80/222222/222222/62729
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1273_1.png" group-title="VARIEDADES",E!
+http://asbx.xyz:80/222222/222222/62764
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foodnetwork.png" group-title="VARIEDADES",Food Network
+http://asbx.xyz:80/222222/222222/62783
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxlife.png" group-title="VARIEDADES",Fox Life
+http://asbx.xyz:80/222222/222222/62788
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gnt.png" group-title="VARIEDADES",GNT
+http://asbx.xyz:80/222222/222222/62857
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES",HGTV
+http://asbx.xyz:80/222222/222222/62883
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/lifetime.png" group-title="VARIEDADES",Lifetime
+http://asbx.xyz:80/222222/222222/62894
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/maisglobosat.png" group-title="VARIEDADES",Mais na Tela
+http://asbx.xyz:80/222222/222222/62897
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="VARIEDADES",Multishow
+http://asbx.xyz:80/222222/222222/62907
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tcm.png" group-title="VARIEDADES",TCM
+http://asbx.xyz:80/222222/222222/62994
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tlc.png" group-title="VARIEDADES",TLC
+http://asbx.xyz:80/222222/222222/63016
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-TruTV_logo_2014.png" group-title="VARIEDADES",TruTV
+http://asbx.xyz:80/222222/222222/63029
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="VARIEDADES",Viva
+http://asbx.xyz:80/222222/222222/63042
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/boomerang.png" group-title="INFANTIL",Boomerang
+http://asbx.xyz:80/222222/222222/62692
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cn.png" group-title="INFANTIL",Cartoon Network
+http://asbx.xyz:80/222222/222222/62705
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/disney.png" group-title="INFANTIL",Disney
+http://asbx.xyz:80/222222/222222/62753
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/disneyjunior.png" group-title="INFANTIL",Disney Junior
+http://asbx.xyz:80/222222/222222/62755
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/disneyxd.png" group-title="INFANTIL",Disney XD
+http://asbx.xyz:80/222222/222222/62757
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gloob.png" group-title="INFANTIL",Gloob
+http://asbx.xyz:80/222222/222222/62855
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickjr.png" group-title="INFANTIL",Nick Jr.
+http://asbx.xyz:80/222222/222222/62916
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickelodeon.png" group-title="INFANTIL",Nickelodeon
+http://asbx.xyz:80/222222/222222/62918
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tooncast.png" group-title="INFANTIL",Tooncast
+http://asbx.xyz:80/222222/222222/63026
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tvratimbum.png" group-title="INFANTIL",TV Rá-Tim-Bum
+http://asbx.xyz:80/222222/222222/63034
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS",Band News
+http://asbx.xyz:80/222222/222222/62675
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/recordnews.png" group-title="NOTICIAS",Record News
+http://asbx.xyz:80/222222/222222/62961
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globonews.png" group-title="NOTICIAS",Globo News
+http://asbx.xyz:80/222222/222222/62827
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/logo-0457804d41d68a5c1c3de124ff229c35.png" group-title="NOTICIAS",CNN Brasil
+http://asbx.xyz:80/222222/222222/62713
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/cnni.png" group-title="NOTICIAS",CNN International
+http://asbx.xyz:80/222222/222222/62716
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/jovempan.png" group-title="NOTICIAS",Jovem Pan News
+http://asbx.xyz:80/222222/222222/71614
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="ABERTOS",Band
+http://asbx.xyz:80/222222/222222/62673
+#EXTINF:-1 tvg-logo="https://cultura.uol.com.br/_img/tvcultura/header/logotipo-tvcultura-desktop-orange.png" group-title="ABERTOS",Cultura
+http://asbx.xyz:80/222222/222222/71625
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="ABERTOS",Record
+http://asbx.xyz:80/222222/222222/62954
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/redetv.png" group-title="ABERTOS",RedeTV!
+http://asbx.xyz:80/222222/222222/62968
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="ABERTOS",SBT
+http://asbx.xyz:80/222222/222222/62971
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvverdesmares.png" group-title="ABERTOS",Verdes Mares Fortaleza
+http://asbx.xyz:80/222222/222222/62854
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTES",Band Sports
+http://asbx.xyz:80/222222/222222/62677
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTES",Combate
+http://asbx.xyz:80/222222/222222/62717
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espn.png" group-title="ESPORTES",ESPN
+http://asbx.xyz:80/222222/222222/62767
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espn2hd.png" group-title="ESPORTES",ESPN 2
+http://asbx.xyz:80/222222/222222/62768
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espnbrasil.png" group-title="ESPORTES",ESPN Brasil
+http://asbx.xyz:80/222222/222222/62770
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espnextra.png" group-title="ESPORTES",ESPN Extra
+http://asbx.xyz:80/222222/222222/62772
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Esporte_Interativo_2_Colorido_-_Branco_2017.png" group-title="ESPORTES",Esporte Interativo HD 1
+http://asbx.xyz:80/222222/222222/62774
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Esporte_Interativo_Colorido_-_Branco_2017.png" group-title="ESPORTES",Esporte Interativo HD 2
+http://asbx.xyz:80/222222/222222/62775
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxsports.png" group-title="ESPORTES",Fox Sports
+http://asbx.xyz:80/222222/222222/62795
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxsports2.png" group-title="ESPORTES",Fox Sports 2
+http://asbx.xyz:80/222222/222222/62796
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTES",SporTV
+http://asbx.xyz:80/222222/222222/62981
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTES",SporTV 2
+http://asbx.xyz:80/222222/222222/62982
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTES",SporTV 3
+http://asbx.xyz:80/222222/222222/62985
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="ESPORTES",Premiere 2
+http://asbx.xyz:80/222222/222222/62939
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="ESPORTES",Premiere 3
+http://asbx.xyz:80/222222/222222/62942
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="ESPORTES",Premiere 4
+http://asbx.xyz:80/222222/222222/62945
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="ESPORTES",Premiere 5
+http://asbx.xyz:80/222222/222222/62947
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="ESPORTES",Premiere 6
+http://asbx.xyz:80/222222/222222/62949
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="ESPORTES",Premiere 7
+http://asbx.xyz:80/222222/222222/62950
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="ESPORTES",Premiere Clubes
+http://asbx.xyz:80/222222/222222/62951
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/discoverychannel.png" group-title="DOCUMENTÁRIOS",Discovery Channel
+http://asbx.xyz:80/222222/222222/62735
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryhh.png" group-title="DOCUMENTÁRIOS",Discovery H&H
+http://asbx.xyz:80/222222/222222/62738
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverykids.png" group-title="DOCUMENTÁRIOS",Discovery Kids
+http://asbx.xyz:80/222222/222222/62741
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="DOCUMENTÁRIOS",Discovery Science
+http://asbx.xyz:80/222222/222222/62744
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="DOCUMENTÁRIOS",Discovery Theather
+http://asbx.xyz:80/222222/222222/62745
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/discoveryturbo.png" group-title="DOCUMENTÁRIOS",Discovery Turbo
+http://asbx.xyz:80/222222/222222/62748
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryworld.png" group-title="DOCUMENTÁRIOS",Discovery World
+http://asbx.xyz:80/222222/222222/62752
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="DOCUMENTÁRIOS",ID - Investigação Discovery
+http://asbx.xyz:80/222222/222222/62890
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="DOCUMENTÁRIOS",Animal Planet
+http://asbx.xyz:80/222222/222222/62658
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="DOCUMENTÁRIOS",History
+http://asbx.xyz:80/222222/222222/62884
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="DOCUMENTÁRIOS",History 2
+http://asbx.xyz:80/222222/222222/62885
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="DOCUMENTÁRIOS",NatGeo Wild
+http://asbx.xyz:80/222222/222222/62911
+#EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="DOCUMENTÁRIOS",National Geographic
+http://asbx.xyz:80/222222/222222/62913
