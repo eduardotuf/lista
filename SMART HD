@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.epg.best/ar/AMC.ar.png" group-title="Filmes",BR: AMC HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/76
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="Filmes",BR: AXN HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/78
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/CanalBrasil.br.png" group-title="Filmes",BR: CANAL BRASIL HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/104
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Sony.br.png" group-title="Filmes",BR: CANAL SONY HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/139
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Cinemax.br.png" group-title="Filmes",BR: CINEMAX HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/106
+#EXTINF:-1 tvg-logo="https://static.epg.best/hu/ComedyCentral.hu.png" group-title="Filmes",BR: COMEDY CENTRAL HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/325
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="Filmes",BR: FILM & ARTS HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/142
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="Filmes",BR: FOX HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/109
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Foxlife.br.png" group-title="Filmes",BR: FOX LIFE HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/110
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="Filmes",BR: FURACÃO TV HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/13
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/FX.br.png" group-title="Filmes",BR: FX HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/120
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/HBO2.br.png" group-title="Filmes",BR: HBO 2 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/92
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/HBO.br.png" group-title="Filmes",BR: HBO HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/89
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/HBO.br.png" group-title="Filmes",BR: HBO Extreme HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/100
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/HBOFamily.br.png" group-title="Filmes",BR: HBO FAMILY HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/94
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Logo-hboMundi2020.png" group-title="Filmes",BR: HBO MUNDI HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/113
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png" group-title="Filmes",BR: HBO PLUS HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/97
+#EXTINF:-1 tvg-logo="https://static.epg.best/pa/HBOPlusPanamericano.pa.png" group-title="Filmes",BR: HBO PLUS*E HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/99
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="Filmes",BR: HBO POP HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/95
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/HBOSignature.br.png" group-title="Filmes",BR: HBO SIGNATURE HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/102
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png" group-title="Filmes",BR: HBO XTREME HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/98
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/MaxBrasil.br.png" group-title="Filmes",BR: MAX HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/122
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/maxUP.br.png" group-title="Filmes",BR: MAX UP HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/129
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/MaxPrimeBrasil.br.png" group-title="Filmes",BR: MAX PRIME HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/124
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/PrimeBoxBrasil.br.png" group-title="Filmes",BR: PRIME BOX BRAZIL HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/126
+#EXTINF:-1 tvg-logo="https://static.epg.best/th/ParamountChannel.th.png" group-title="Filmes",BR: PARAMOUNT CHANNEL HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/135
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="Filmes",BR: SBT 4K
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/85
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Sony.br.png" group-title="Filmes",BR: SONY HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/138
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Space.br.png" group-title="Filmes",BR: SPACE HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/141
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Studiouniversal.br.png" group-title="Filmes",BR: STUDIO UNIVERSAL HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/144
+#EXTINF:-1 tvg-logo="https://static.epg.best/de/Syfy.de.png" group-title="Filmes",BR: SYFY HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/177
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/TBS.br.png" group-title="Filmes",BR: TBS
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/179
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/TCM.br.png" group-title="Filmes",BR: TCM
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/180
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/TelecineAction.br.png" group-title="Filmes",BR: TELECINE ACTION HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/147
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/TelecineCult.br.png" group-title="Filmes",BR: TELECINE CULT HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/150
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/TelecineFun.br.png" group-title="Filmes",BR: TELECINE FUN HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/153
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/TelecinePipoca.br.png" group-title="Filmes",BR: TELECINE PIPOCA HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/156
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/TelecinePremium.br.png" group-title="Filmes",BR: TELECINE PREMIUM HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/159
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/TelecineTouch.br.png" group-title="Filmes",BR: TELECINE TOUCH HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/162
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/TNTSeries.br.png" group-title="Filmes",BR: TNT SÉRIES HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/168
+#EXTINF:-1 tvg-logo="https://static.epg.best/ph/UniversalChannel.ph.png" group-title="Filmes",BR: UNIVERSAL CHANNEL HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/171
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/WarnerChannel.br.png" group-title="Filmes",BR: WARNER CHANNEL HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/174
+#EXTINF:-1 tvg-logo="https://static.epg.best/ro/AnimalPlanet.ro.png" group-title="Info&tec",BR: ANIMAL PLANET HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/267
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Arte1.br.png" group-title="Info&tec",BR: ARTE 1 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/319
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/DiscoveryChannel.br.png" group-title="Info&tec",BR: DISCOVERY CHANNEL HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/270
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/DiscoveryCivilization.br.png" group-title="Info&tec",BR: DISCOVERY CIVILIZATION HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/273
+#EXTINF:-1 tvg-logo="https://static.epg.best/co/DiscoveryHomeAndHealth.co.png" group-title="Info&tec",BR: DISCOVERY HOME & HEALTH HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/276
+#EXTINF:-1 tvg-logo="https://static.epg.best/pl/DiscoveryScience.pl.png" group-title="Info&tec",BR: DISCOVERY SCIENCE HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/279
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/DiscoveryTheater.br.png" group-title="Info&tec",BR: DISCOVERY THEATER HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/282
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/DiscoveryTurbo.br.png" group-title="Info&tec",BR: DISCOVERY TURBO HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/287
+#EXTINF:-1 tvg-logo="https://static.epg.best/no/DiscoveryWorld.no.png" group-title="Info&tec",BR: DISCOVERY WORLD HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/290
+#EXTINF:-1 tvg-logo="https://static.epg.best/bg/FoodNetwork.bg.png" group-title="Info&tec",BR: FOOD NETWORK HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/331
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/History2.br.png" group-title="Info&tec",BR: H2 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/295
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/HistoryChannel.br.png" group-title="Info&tec",BR: HISTORY CHANNEL HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/298
+#EXTINF:-1 tvg-logo="https://static.epg.best/ar/InvestigationDiscovery.ar.png" group-title="Info&tec",BR: ID INVESTIGAÇÃO DISCOVERY HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/300
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/NatGeoWild.br.png" group-title="Info&tec",BR: NATGEO WILD HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/304
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/BabyTV.br.png" group-title="Infantil",BR: BABY TV HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/184
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/Boomerang.au.png" group-title="Infantil",BR: BOOMERANG HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/182
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/CartoonNetwork.pt.png" group-title="Infantil",BR: CARTOON NETWORK HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/187
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/DiscoveryKids.in.png" group-title="Infantil",BR: DISCOVERY KIDS HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/7
+#EXTINF:-1 tvg-logo="https://static.epg.best/nz/DisneyXD.nz.png" group-title="Infantil",BR: DISNEY XD HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/69
+#EXTINF:-1 tvg-logo="https://static.epg.best/no/DisneyChannel.no.png" group-title="Infantil",BR: DISNEY CHANNEL HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/63
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Infantil",BR: GLOOB HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/190
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/NickJr.au.png" group-title="Infantil",BR: NICK JR HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/193
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="Infantil",BR: NICKELODEON HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/195
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/PlayTV.br.png" group-title="Infantil",BR: TV PLAYKIDS HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/420
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Infantil",BR: TV RA TIM BUM HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/419
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Band.br.png" group-title="Abertos",BR: BAND NORDESTE HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/203
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Cultura.br.png" group-title="Abertos",BR: CULTURA HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/208
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Curta.br.png" group-title="Abertos",BR: CURTA! HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/326
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/Entertainment.au.png" group-title="Abertos",BR: E! HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/328
+#EXTINF:-1 tvg-logo="https://static.epg.best/de/EEntertainment.de.png" group-title="Abertos",BR: EI PLUS
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/16
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Futura.br.png" group-title="Abertos",BR: FUTURA HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/210
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Abertos",BR: GLOBO DIÁRIO HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/251
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Gnt.br.png" group-title="Abertos",BR: GNT HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/333
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Lifetime.uk.png" group-title="Abertos",BR: LIFETIME HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/335
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Abertos",BR: MAIS GLOBOSAT HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/261
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/RecordTV.br.png" group-title="Abertos",BR: RECORD NORDESTE HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/219
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Redetv.br.png" group-title="Abertos",BR: REDE TV HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/223
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="Abertos",BR: SBT NORDESTE HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/84
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/GloboRJ.br.png" group-title="Abertos",BR: GLOBO TV VERDES MARES FORTALEZA HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/233
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/BandNews.br.png" group-title="Noticias",BR: BAND NEWS HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/310
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/CNN.au.png" group-title="Noticias",BR: CNN BRASIL 4K
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/207
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/GloboNews.br.png" group-title="Noticias",BR: GLOBO NEWS HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/313
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Jovem_Pan_News_logo_2018_%282%29.png" group-title="Noticias",BR: JOVEM PAN NEW HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/433
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/RecordNews.br.png" group-title="Noticias",BR: RECORD NEWS HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/316
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/BandSports.br.png" group-title="Esportes",BR: BAND SPORTS HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/9
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Combate.br.png" group-title="Esportes",BR: COMBATE HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/12
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Esportes",BR: ESPN BRASIL HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/18
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/ESPN.br.png" group-title="Esportes",BR: ESPN 1 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/21
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/ESPNplus.mx.png" group-title="Esportes",BR: ESPN+ HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/24
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/ESPN2.br.png" group-title="Esportes",BR: ESPN2 4K
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/25
+#EXTINF:-1 tvg-logo="https://static.epg.best/co/ESPN3.co.png" group-title="Esportes",BR: ESPN3 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/45525
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png" group-title="Esportes",BR: ESPN4 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/45527
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/FoxSports2.br.png" group-title="Esportes",BR: FOX SPORTS 2 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/27
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/FoxSports.br.png" group-title="Esportes",BR: FOX SPORTS HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/30
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/PremiereClubes.br.png" group-title="Esportes",BR: PREMIERE 1 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/32
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Premiere2.br.png" group-title="Esportes",BR: PREMIERE 2 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/34
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/PremiereClubes.br.png" group-title="Esportes",BR: PREMIERE 3 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/37
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/PremiereClubes.br.png" group-title="Esportes",BR: PREMIERE 4 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/40
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/PremiereClubes.br.png" group-title="Esportes",BR: PREMIERE 5 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/43
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/PremiereClubes.br.png" group-title="Esportes",BR: PREMIERE 6 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/45
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Premiere4.br.png" group-title="Esportes",BR: PREMIERE 7 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/46
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/PremiereClubes.br.png" group-title="Esportes",BR: PREMIERE 8 SD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/48
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/PremiereClubes.br.png" group-title="Esportes",BR: PREMIERE CLUBES HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/50
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Sportv.br.png" group-title="Esportes",BR: SPORTV HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/60
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Sportv2.br.png" group-title="Esportes",BR: SPORTV 2 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/53
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/SporTV3.br.png" group-title="Esportes",BR: SPORTV 3 HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/56
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/SporTV3.br.png" group-title="Esportes",BR: SporTV 4 HD (Olimpiadas)
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/57
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Bis.br.png" group-title="Música",BR: BIS HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/321
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/MTV.br.png" group-title="Música",BR: MTV HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/128
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Multishow.br.png" group-title="Música",BR: MULTISHOW HD
+http://smattv.eatuo.com:25461/001a7934182e/001a7934182e/338
