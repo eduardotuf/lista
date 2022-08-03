@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://logospng.org/download/copa-do-brasil/logo-copa-do-brasil-256.png",Conmenbol 01
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/75600.mpegts
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://logospng.org/download/copa-do-brasil/logo-copa-do-brasil-256.png",Copa do Brasil 02
 http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/86455.mpegts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E
