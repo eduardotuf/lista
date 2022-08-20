@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="FILMES E SERIES",DANIELA PEREZ 01
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pacto.Brutal/LS-T01E01.mp4
-#EXTINF:-1 group-title="FILMES E SERIES",DANIELA PEREZ 02
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pacto.Brutal/LS-T01E02.mp4
-#EXTINF:-1 group-title="FILMES E SERIES",DANIELA PEREZ 03
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pacto.Brutal/LS-T01E03.mp4
-#EXTINF:-1 group-title="FILMES E SERIES",DANIELA PEREZ 04
-https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Pacto.Brutal/LS-T01E04.mp4
 #EXTINF:-1 group-title="FILMES E SERIES",AMC HD
 http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/300
 #EXTINF:-1 group-title="FILMES E SERIES",AXN HD
