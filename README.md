@@ -1,37 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png",AXN HD
-http://axr.life:80/gabriela10/gabriela10/5043
-#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png",TNT SERIES HD
-http://axr.life:80/gabriela10/gabriela10/5124
-#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png",UNIVERSAL TV HD
-http://axr.life:80/gabriela10/gabriela10/5129
-#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png",CANAL SONY HD
-http://axr.life:80/gabriela10/gabriela10/5046
-#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png",WARNER CHANNEL HD
-http://axr.life:80/gabriela10/gabriela10/5132
-
-#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png",AXN HD
-http://axr.life:80/00006712/MF159357C/5043
-#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png",TNT SERIES HD
-http://axr.life:80/00006712/MF159357C/5124
-#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png",UNIVERSAL TV HD
-http://axr.life:80/00006712/MF159357C/5129
-#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png",CANAL SONY HD
-http://axr.life:80/00006712/MF159357C/5046
-#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png",WARNER CHANNEL HD
-http://axr.life:80/00006712/MF159357C/5132
-
-#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png",AXN HD
-http://axr.life:80/00005733/MF159357C/5043
-#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png",TNT SERIES HD
-http://axr.life:80/00005733/MF159357C/5124
-#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png",UNIVERSAL TV HD
-http://axr.life:80/00005733/MF159357C/5129
-#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png",CANAL SONY HD
-http://axr.life:80/00005733/MF159357C/5046
-#EXTINF:-1 group-title="CANAIS | FILMES & SERIES" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png",WARNER CHANNEL HD
-http://axr.life:80/00005733/MF159357C/5132
-
 #EXTINF:-1 group-title="FILMES E SERIES",AMC HD
 http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/300
 #EXTINF:-1 group-title="FILMES E SERIES",AXN HD
