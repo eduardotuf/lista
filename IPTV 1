@@ -1,219 +1,95 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/aande.png" group-title="CANAIS: HD",A&E HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16691
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/amc.png" group-title="CANAIS: HD",AMC HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16692
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="CANAIS: HD",ANIMAL PLANET HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16693
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/470b190de1ef11c136ccfacdec1b6017.png" group-title="CANAIS: HD",AXN HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16695
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sony.png" group-title="CANAIS: HD",Canal Sony HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16700
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS: HD",CINEMAX HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16702
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/531a36f4089a5f65b28bedb90dc00117.png" group-title="CANAIS: HD",COMEDY CENTRAL HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16704
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/3f0a25c8c94296bd1563a0ece015ad4e.png" group-title="CANAIS: HD",Discovery Channel HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16705
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryhomeandhealth.png" group-title="CANAIS: HD",Discovery H&H HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16706
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/investigationb.png" group-title="CANAIS: HD",Discovery ID HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16736
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryscienceb.png" group-title="CANAIS: HD",Discovery Science HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16708
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tlc.png" group-title="CANAIS: HD",Discovery TLC HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16710
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryturbob.png" group-title="CANAIS: HD",Discovery Turbo HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16711
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="CANAIS: HD",Discovery World HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16712
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/6701d32367fa57ebf2a1c8ec8730badc.png" group-title="CANAIS: HD",FX HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16726
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/4ff6b7a124e0e98887c306edf7b72c5a.png" group-title="CANAIS: HD",Globo News HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16727
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/25fa91858b069b1652a8c0954a90ce60.png" group-title="CANAIS: HD",H2 HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16733
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/26e104754d63adb5a0f6ce026be7182b.png" group-title="CANAIS: HD",HGTV HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16734
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="CANAIS: HD",History Channel HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16735
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/7f2cd821ef90fa8874893fc2f01b696f.png" group-title="CANAIS: HD",Nat Geo Kids HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16741
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/natgeo.png" group-title="CANAIS: HD",National Geographic HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16743
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/paramount.png" group-title="CANAIS: HD",Paramount Channel HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16746
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/596174fc20df4264ee4fa6e2b35e5022.png" group-title="CANAIS: HD",Space HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16750
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS: HD",SporTV 1 HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16753
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/7cdd99f0f49e9148979d0c07bbbd3318.png" group-title="CANAIS: HD",SporTV 2 HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16751
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/365fc6d09ecab42eb99b787a6df6477b.png" group-title="CANAIS: HD",SporTV 3 HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16752
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/09f75ae3398bd8390700f4704b9ebea8.png" group-title="CANAIS: HD",STAR CHANNEL HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16720
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/619b13fb4189d623b016edb8aa0250fc.png" group-title="CANAIS: HD",Star Life
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16721
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/studiouniversalb.png" group-title="CANAIS: HD",Studio Universal HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16754
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/8d4f17ac26b11aa97e5a28cac138b392.png" group-title="CANAIS: HD",SyFy HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16755
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="CANAIS: HD",Telecine Fun HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16756
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: HD",Telecine Pipoca HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16757
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcpremiumb.png" group-title="CANAIS: HD",Telecine Premium HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16758
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tctouchb.png" group-title="CANAIS: HD",Telecine Touch HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16759
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS: HD",TNT HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16760
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tntseries.png" group-title="CANAIS: HD",TNT Sies HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16761
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5c8d2af36dbec982c74da70a4378e8c4.png" group-title="CANAIS: HD",Universal Channel HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16763
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/warnerchannel.png" group-title="CANAIS: HD",Warner Channel HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16765
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31105
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/3f0a25c8c94296bd1563a0ece015ad4e.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL FHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31106
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3cb160026aa53be9dc13e3f1844e25.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31108
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/74dd868583b6f3eec92afef9e90545f4.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY ID HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31110
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/6860c35d5f46884944f224c1b0370ad2.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY SCIENCE HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31112
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/25fa91858b069b1652a8c0954a90ce60.png" group-title="CANAIS: DOCUMENTARIOS",H2 HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31119
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/26e104754d63adb5a0f6ce026be7182b.png" group-title="CANAIS: DOCUMENTARIOS",HGTV HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31121
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/e54d2b4f42397dbed309964bd18be83e.png" group-title="CANAIS: DOCUMENTARIOS",HISTORY HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31123
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/2115ee8b4f1b5f0085f6c521decd1def.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31125
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/2115ee8b4f1b5f0085f6c521decd1def.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD FULLHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31126
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/3654b34017508a963ccce2426e91e4cd.png" group-title="CANAIS: FILMES E SERIES",AMC HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31269
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/4db86620f1aff2df1aacbd1aef62656e.png" group-title="CANAIS: FILMES E SERIES",AXN HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31271
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/e9fe8a96112a1c9d47652689a4282903.png" group-title="CANAIS: FILMES E SERIES",CANAL SONY HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31273
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/a772994da62e337a407bcfe212e11629.png" group-title="CANAIS: FILMES E SERIES",CINEMAX HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31275
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/6701d32367fa57ebf2a1c8ec8730badc.png" group-title="CANAIS: FILMES E SERIES",FX HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31277
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS: FILMES E SERIES",MEGAPIX HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31279
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/250px-Paramount.png" group-title="CANAIS: FILMES E SERIES",PARAMOUNT CHANNEL HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31281
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/596174fc20df4264ee4fa6e2b35e5022.png" group-title="CANAIS: FILMES E SERIES",SPACE HD*
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31284
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/d67d49568c51151403ab2aa0aa43801d.png" group-title="CANAIS: FILMES E SERIES",STUDIO UNIVERSAL HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31292
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/8d4f17ac26b11aa97e5a28cac138b392.png" group-title="CANAIS: FILMES E SERIES",SYFY HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31294
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/b830b40478efd1395ffa550bdf276b1c.png" group-title="CANAIS: FILMES E SERIES",TBS HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31296
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="CANAIS: FILMES E SERIES",TCM HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31298
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS: FILMES E SERIES",TNT HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31300
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/8a22f76113da4e6d3a618d555fd1b14b.png" group-title="CANAIS: FILMES E SERIES",TNT SERIES HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31302
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5c8d2af36dbec982c74da70a4378e8c4.png" group-title="CANAIS: FILMES E SERIES",UNIVERSAL TV HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31304
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/41d1f5c5b62b7ac7de31aeb45fc48756.png" group-title="CANAIS: FILMES E SERIES",WARNER CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31305
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/10a8c26b1a68f70a0dc5d4bead2581b9.png" group-title="CANAIS: HBO",HBO 2 HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31460
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="CANAIS: HBO",HBO FAMILY HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31462
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/02533372af53048a55cf973c53c4ce87.png" group-title="CANAIS: HBO",HBO FULL HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31464
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/02533372af53048a55cf973c53c4ce87.png" group-title="CANAIS: HBO",HBO 1 HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31465
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/4faa3e5e907c5cbebb62c10e904f15e9.png" group-title="CANAIS: HBO",HBO MUNDI HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31467
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="CANAIS: HBO",HBO PLUS FHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31468
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/6727955f428709d4a93f1176e63b9c31.png" group-title="CANAIS: HBO",HBO POP HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31471
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/bd9bac19be8c161770a5ba7a4bb80b54.png" group-title="CANAIS: HBO",HBO SIGNATURE HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31473
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/024401c0ada87effad15307707a8f652.png" group-title="CANAIS: HBO",HBO XTREME FULLHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31475
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/4ebb9a66bdfa5057b937ae714715dc13.png" group-title="CANAIS: NOTICIAS",BAND NEWS FHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31506
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/c7fad716bdb5128ab32837e0a4e510a7.png" group-title="CANAIS: NOTICIAS",CNN BRASIL HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31509
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: TELECINE",TELECINE ACTION HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31583
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/aa9e2822814cc61a4be9f0b3b9180f00.png" group-title="CANAIS: TELECINE",TELECINE CULT HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31585
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="CANAIS: TELECINE",TELECINE FUN HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31588
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31590
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/2e31ce17a394e94e2089fcf435e0c142.png" group-title="CANAIS: TELECINE",TELECINE PREMIUM HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31592
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS: TELECINE",TELECINE TOUCH HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31594
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: TELECINE",TELECINE ACTION HD²
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33730
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="CANAIS: Dublado",A&E HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36034
-#EXTINF:-1 group-title="CANAIS: Dublado",Animal Planet HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36016
-#EXTINF:-1 group-title="CANAIS: Dublado",AXN HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36041
-#EXTINF:-1 group-title="CANAIS: Dublado",Canal Sony HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36040
-#EXTINF:-1 group-title="CANAIS: Dublado",Discovery Channel HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36045
-#EXTINF:-1 group-title="CANAIS: Dublado",Discovery Science HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36065
-#EXTINF:-1 group-title="CANAIS: Dublado",Discovery Theater HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36053
-#EXTINF:-1 group-title="CANAIS: Dublado",E! HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35969
-#EXTINF:-1 group-title="CANAIS: Dublado",HBO HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35980
-#EXTINF:-1 group-title="CANAIS: Dublado",HBO Signature HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35985
-#EXTINF:-1 group-title="CANAIS: Dublado",HBO2 HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35981
-#EXTINF:-1 group-title="CANAIS: Dublado",HGTV HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36062
-#EXTINF:-1 group-title="CANAIS: Dublado",History 2 HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36032
-#EXTINF:-1 group-title="CANAIS: Dublado",History HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36038
-#EXTINF:-1 group-title="CANAIS: Dublado",ID HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36057
-#EXTINF:-1 group-title="CANAIS: Dublado",Space HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36059
-#EXTINF:-1 group-title="CANAIS: Dublado",TBS HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36056
-#EXTINF:-1 group-title="CANAIS: Dublado",Telecine Action HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36008
-#EXTINF:-1 group-title="CANAIS: Dublado",Telecine Cult HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36012
-#EXTINF:-1 group-title="CANAIS: Dublado",Telecine Fun HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36011
-#EXTINF:-1 group-title="CANAIS: Dublado",Telecine Pipoca HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35997
-#EXTINF:-1 group-title="CANAIS: Dublado",Telecine Premium HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35995
-#EXTINF:-1 group-title="CANAIS: Dublado",Telecine Touch HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35996
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="CANAIS: Dublado",TLC HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36042
-#EXTINF:-1 group-title="CANAIS: Dublado",TNT HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36004
-#EXTINF:-1 group-title="CANAIS: Dublado",TNT Séries HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36058
-#EXTINF:-1 group-title="CANAIS: Dublado",Warner Channel HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36039
+#EXTINF:-1 tvg-logo="http://p6.vc/bb" group-title="Canais | Documentários",Animal Planet HD
+http://pfsv.io:80/pedroguilherme12353/4354357/179
+#EXTINF:-1 tvg-logo="http://p6.vc/9" group-title="Canais | Documentários",Discovery Channel HD
+http://pfsv.io:80/pedroguilherme12353/4354357/181
+#EXTINF:-1 tvg-logo="http://p6.vc/eK0" group-title="Canais | Documentários",Discovery Home & Health HD
+http://pfsv.io:80/pedroguilherme12353/4354357/183
+#EXTINF:-1 tvg-logo="http://p6.vc/eK1" group-title="Canais | Documentários",Discovery Science HD
+http://pfsv.io:80/pedroguilherme12353/4354357/184
+#EXTINF:-1 tvg-logo="http://p6.vc/eK2" group-title="Canais | Documentários",Discovery Theater HD
+http://pfsv.io:80/pedroguilherme12353/4354357/185
+#EXTINF:-1 tvg-logo="http://p6.vc/eKZ" group-title="Canais | Documentários",HGTV HD
+http://pfsv.io:80/pedroguilherme12353/4354357/182
+#EXTINF:-1 tvg-logo="http://p6.vc/eK5" group-title="Canais | Documentários",History Channel 2 HD
+http://pfsv.io:80/pedroguilherme12353/4354357/188
+#EXTINF:-1 tvg-logo="http://p6.vc/eK6" group-title="Canais | Documentários",History Channel HD
+http://pfsv.io:80/pedroguilherme12353/4354357/189
+#EXTINF:-1 tvg-logo="http://p6.vc/eK7" group-title="Canais | Documentários",Investigacao Discovery HD
+http://pfsv.io:80/pedroguilherme12353/4354357/190
+#EXTINF:-1 tvg-logo="http://p6.vc/bf" group-title="Canais | Documentários",National Geographic HD
+http://pfsv.io:80/pedroguilherme12353/4354357/191
+#EXTINF:-1 tvg-logo="http://p6.vc/U" group-title="Canais | Filmes e Séries",A&E HD
+http://pfsv.io:80/pedroguilherme12353/4354357/299
+#EXTINF:-1 tvg-logo="http://p6.vc/eLo" group-title="Canais | Filmes e Séries",AMC HD
+http://pfsv.io:80/pedroguilherme12353/4354357/300
+#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | Filmes e Séries",AXN HD
+http://pfsv.io:80/pedroguilherme12353/4354357/301
+#EXTINF:-1 tvg-logo="http://p6.vc/eLb" group-title="Canais | Filmes e Séries",CineMax HD
+http://pfsv.io:80/pedroguilherme12353/4354357/303
+#EXTINF:-1 tvg-logo="http://p6.vc/eLf" group-title="Canais | Filmes e Séries",FX HD
+http://pfsv.io:80/pedroguilherme12353/4354357/308
+#EXTINF:-1 tvg-logo="http://p6.vc/Z" group-title="Canais | Filmes e Séries",HBO 2 HD
+http://pfsv.io:80/pedroguilherme12353/4354357/472
+#EXTINF:-1 tvg-logo="http://p6.vc/V" group-title="Canais | Filmes e Séries",HBO Family HD
+http://pfsv.io:80/pedroguilherme12353/4354357/473
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | Filmes e Séries",HBO HD
+http://pfsv.io:80/pedroguilherme12353/4354357/474
+#EXTINF:-1 tvg-logo="http://p6.vc/X" group-title="Canais | Filmes e Séries",HBO Mundi HD
+http://pfsv.io:80/pedroguilherme12353/4354357/477
+#EXTINF:-1 tvg-logo="http://p6.vc/X" group-title="Canais | Filmes e Séries",HBO Mundi SD
+http://pfsv.io:80/pedroguilherme12353/4354357/485
+#EXTINF:-1 tvg-logo="http://p6.vc/I" group-title="Canais | Filmes e Séries",HBO Plus HD
+http://pfsv.io:80/pedroguilherme12353/4354357/475
+#EXTINF:-1 tvg-logo="http://p6.vc/O" group-title="Canais | Filmes e Séries",HBO Pop HD
+http://pfsv.io:80/pedroguilherme12353/4354357/479
+#EXTINF:-1 tvg-logo="http://p6.vc/W" group-title="Canais | Filmes e Séries",HBO Signature HD
+http://pfsv.io:80/pedroguilherme12353/4354357/476
+#EXTINF:-1 tvg-logo="http://p6.vc/Y" group-title="Canais | Filmes e Séries",HBO Xtreme HD
+http://pfsv.io:80/pedroguilherme12353/4354357/478
+#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | Filmes e Séries",Megapix HD
+http://pfsv.io:80/pedroguilherme12353/4354357/310
+#EXTINF:-1 tvg-logo="http://p6.vc/eLp" group-title="Canais | Filmes e Séries",Paramount Channel HD
+http://pfsv.io:80/pedroguilherme12353/4354357/311
+#EXTINF:-1 tvg-logo="http://p6.vc/eLa" group-title="Canais | Filmes e Séries",Sony Channel HD
+http://pfsv.io:80/pedroguilherme12353/4354357/302
+#EXTINF:-1 tvg-logo="http://p6.vc/bg" group-title="Canais | Filmes e Séries",Space HD
+http://pfsv.io:80/pedroguilherme12353/4354357/313
+#EXTINF:-1 tvg-logo="http://p6.vc/eLh" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://pfsv.io:80/pedroguilherme12353/4354357/320
+#EXTINF:-1 tvg-logo="http://p6.vc/eLi" group-title="Canais | Filmes e Séries",SyFy HD
+http://pfsv.io:80/pedroguilherme12353/4354357/312
+#EXTINF:-1 tvg-logo="http://p6.vc/eLj" group-title="Canais | Filmes e Séries",TBS HD
+http://pfsv.io:80/pedroguilherme12353/4354357/321
+#EXTINF:-1 tvg-logo="http://p6.vc/J" group-title="Canais | Filmes e Séries",Telecine Action HD
+http://pfsv.io:80/pedroguilherme12353/4354357/568
+#EXTINF:-1 tvg-logo="http://p6.vc/P" group-title="Canais | Filmes e Séries",Telecine Cult HD
+http://pfsv.io:80/pedroguilherme12353/4354357/569
+#EXTINF:-1 tvg-logo="http://p6.vc/K" group-title="Canais | Filmes e Séries",Telecine Fun HD
+http://pfsv.io:80/pedroguilherme12353/4354357/570
+#EXTINF:-1 tvg-logo="http://p6.vc/L" group-title="Canais | Filmes e Séries",Telecine Pipoca HD
+http://pfsv.io:80/pedroguilherme12353/4354357/572
+#EXTINF:-1 tvg-logo="http://p6.vc/M" group-title="Canais | Filmes e Séries",Telecine Premium HD
+http://pfsv.io:80/pedroguilherme12353/4354357/573
+#EXTINF:-1 tvg-logo="http://p6.vc/N" group-title="Canais | Filmes e Séries",Telecine Touch HD
+http://pfsv.io:80/pedroguilherme12353/4354357/571
+#EXTINF:-1 tvg-logo="http://p6.vc/eLk" group-title="Canais | Filmes e Séries",TLC HD
+http://pfsv.io:80/pedroguilherme12353/4354357/314
+#EXTINF:-1 tvg-logo="http://p6.vc/bi" group-title="Canais | Filmes e Séries",TNT HD
+http://pfsv.io:80/pedroguilherme12353/4354357/315
+#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Canais | Filmes e Séries",TNT Series HD
+http://pfsv.io:80/pedroguilherme12353/4354357/316
+#EXTINF:-1 tvg-logo="http://p6.vc/eLm" group-title="Canais | Filmes e Séries",Universal Channel HD
+http://pfsv.io:80/pedroguilherme12353/4354357/317
+#EXTINF:-1 tvg-logo="http://p6.vc/eLq" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://pfsv.io:80/pedroguilherme12353/4354357/319
+#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Notícias",Band News HD
+http://pfsv.io:80/pedroguilherme12353/4354357/514
+#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",CNN Brasil HD
+http://pfsv.io:80/pedroguilherme12353/4354357/517
+#EXTINF:-1 tvg-logo="http://p6.vc/3" group-title="Canais | Notícias",Globo News HD
+http://pfsv.io:80/pedroguilherme12353/4354357/516
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/jpnews.png" group-title="Canais | Notícias",Jovem PAN News HD
+http://pfsv.io:80/pedroguilherme12353/4354357/98165
+#EXTINF:-1 tvg-logo="http://p6.vc/2" group-title="Canais | Notícias",Record News HD
+http://pfsv.io:80/pedroguilherme12353/4354357/515
