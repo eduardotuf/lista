@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="CANAIS",SONY API
+http://api.magiaiptv.com/live/800349/713534/m3_kMewqpTKfyYadI1gm05U8cv_720p
+#EXTINF:-1 group-title="CANAIS",SONY HD STARPLAY
+http://loadbl2.online:8080/14043715/75746476/17844
+#EXTINF:-1 group-title="CANAIS",SONY HD AXR
+http://axr.life:80/00005733/MF159357C/5046
+#EXTINF:-1 group-title="CANAIS",SONY HD 2022 2
+http://axr.life:80/096154/686531/5046
+#EXTINF:-1 group-title="CANAIS",SONY HD PFSV
+http://pfsv.io:80/pedroguilherme12353/4354357/302
+#EXTINF:-1 group-title="CANAIS",SONY HD+ VITVABC
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16700
+#EXTINF:-1 group-title="CANAIS",SONY A5
+http://45.170.92.6:8080/6235/6235/633
+#EXTINF:-1 group-title="CANAIS",SONY HD KODI2
+http://api.magiaiptv.com/live/800575/759878/m3_kMewqpTKfyYadI1gm05U8cv_720p
+#EXTINF:-1 group-title="CANAIS",SONY UHD 2022
+http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13730.ts
+#EXTINF:-1 group-title="CANAIS",SONY HD B5
+http://clienteworld.com:80/claud123/claud123/83526
