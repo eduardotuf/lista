@@ -5,7 +5,7 @@ http://srv.cldplay.net:80/jumento/flavico/83185
 http://srv.cldplay.net:80/jumento/flavico/83186
 #EXTINF:-1 group-title="FILMES",AXN HD
 http://srv.cldplay.net:80/jumento/flavico/83188
-#EXTINF:-1 group-title="FILMES",Canal Sony HD
+#EXTINF:-1 tvg-logo="http://p6.vc/eLa" group-title="FILMES",Canal Sony HD
 http://srv.cldplay.net:80/jumento/flavico/83191
 #EXTINF:-1 group-title="FILMES",Cinemax HD
 http://srv.cldplay.net:80/jumento/flavico/83193
